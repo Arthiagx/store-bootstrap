@@ -1,0 +1,19 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.botao-lilas {
+    background-color: #ba92ff;
+}
+
+.verde-limao {
+    color: #f4fbcd;
+}
+.card-img {
+    max-width: 100%;
+    height: auto;
+}
